@@ -1,4 +1,4 @@
-![Screenshot (723)](https://github.com/parthmahajan107/Gymproject/assets/80969190/203fcc29-d5d3-487b-893c-524fbac98201)# Gymproject
+# Gymproject
 Welcome to the Gym Project repository! This project is a comprehensive web application developed to manage and enhance gym-related activities and user experiences. Built using modern web technologies including HTML, CSS, JavaScript, and React
 Technologies Used
 HTML5: For structuring the content and layout.
